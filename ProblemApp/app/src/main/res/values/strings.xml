@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ProblemApp</string>
+
+    <string-array name="category">
+        <item>开关类故障处理</item>
+        <item>辅助运输设备故障处理</item>
+        <item>采掘设备故障处理</item>
+        <item>综采面中双链刮板输送机和乳化液泵故障处理</item>
+    </string-array>
+    <string-array name="number">
+        <item>一</item>
+        <item>二</item>
+        <item>三</item>
+        <item>四</item>
+    </string-array>
+</resources>
