@@ -21,13 +21,13 @@ public class DetailsActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_details);
-
+/*
         Resources res = getResources();
         myListView = (ListView) findViewById(R.id.detiallistView);
         progressTextView = (TextView)findViewById(R.id.progressTextView);
         thiscontext = this;
 
         progressTextView.setText("");
-
+*/
     }
 }
