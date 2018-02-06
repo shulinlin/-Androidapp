@@ -7,6 +7,18 @@
         <item>采掘设备故障处理</item>
         <item>综采面中双链刮板输送机和乳化液泵故障处理</item>
     </string-array>
+    <string-array name="switch_name">
+        <item>KBZ1-400(200)/1140矿用隔爆型真空馈电开关（浙江恒泰）</item>
+        <item>QJZ-200/315/400真空电磁启动器（天津天矿）</item>
+        <item>KBZ-630(500)1140W矿用隔爆智能馈电开关（徐州煤矿机械厂）</item>
+        <item>KBZ2-630(500 400 200)1140W矿用隔爆智能馈电开关（四平一开）</item>
+    </string-array>
+
+    <string-array name="fault_cate">
+        <item>合闸不动作</item>
+        <item>漏电实验不动作</item>
+        <item>不分闸</item>
+    </string-array>
     <string-array name="number">
         <item>一</item>
         <item>二</item>
