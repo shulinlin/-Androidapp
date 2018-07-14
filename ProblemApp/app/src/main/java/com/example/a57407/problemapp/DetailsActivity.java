@@ -26,7 +26,7 @@ public class DetailsActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_details);
-<<<<<<< HEAD
+
 /*
         Resources res = getResources();
 =======
@@ -39,8 +39,7 @@ public class DetailsActivity extends AppCompatActivity {
 
         progressTextView.setText("");
 */
-<<<<<<< HEAD
-=======
+
     }
     private class GetData extends AsyncTask<String,String,String>{
 
@@ -90,6 +89,6 @@ public class DetailsActivity extends AppCompatActivity {
                 myListView.setAdapter(itemAdapter);
             }
         }
->>>>>>> 9e5ecdfa9eaf3e5f4ab6fe101113aa4137db8507
+
     }
 }
